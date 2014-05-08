@@ -1,4 +1,4 @@
-Meteor Trianglify
+Meteor Shine.js
 ==================
 
 [Shine.js](https://github.com/bigspaceship/shine.js) packaged for [Meteor](http://meteor.com).
