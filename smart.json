@@ -3,7 +3,7 @@
     "description": "Shine.js packaged for meteor",
     "homepage": "https://github.com/timbroddin/meteor-shine",
     "author": "Tim Broddin",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "git": "https://github.com/timbroddin/meteor-shine.git",
     "packages": {}
 }
